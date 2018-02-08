@@ -7,33 +7,34 @@ header {
   color: #6040e0;
 }
 
-.box-collage {
-  border: 2px solid #8060f0;
-  height: 70vh;
+/* PARA EJERCICIO HTML5 */
+.img-vacio {
+display: flex;
+
+}
+.marco-foto {
+  min-height: 100px;
+  border: 1px solid black;
+  margin: 1em 1em;
+  width: 50%;
 }
 
-.bx {
-  border: 1px solid #fff;
-  background-size: cover;
+.marco-foto > img {
+  margin-bottom: 0;
 }
-
-.midle {
-  height: 35vh;
+.recientes {
+  display: flex;
 }
-
-.full {
-  height: 70vh;
+.recientes div{
+  min-height: 100px;
+  border: 1px solid black;
+  margin: 1em 1em;
+  width: 50%;
 }
-
-.title-box {
-  color: #6040e0;
-  font-size: 5em;
+.recientes div img{
+  margin-bottom: 0;
 }
-
-.down {
-  color: #6040e0;
-}
-
-.img-gallery:hover {
-  background-color: rgba(0,0,0,0.1);
+img {
+  width: 100%;
+  height: 100%;
 }
