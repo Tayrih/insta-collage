@@ -7,36 +7,6 @@ header {
   color: #6040e0;
 }
 
-.box-collage {
-  border: 2px solid #8060f0;
-  height: 70vh;
-}
-
-.bx {
-  border: 1px solid #fff;
-  background-size: cover;
-}
-
-.midle {
-  height: 35vh;
-}
-
-.full {
-  height: 70vh;
-}
-
-.title-box {
-  color: #6040e0;
-  font-size: 5em;
-}
-
-.down {
-  color: #6040e0;
-}
-
-.img-gallery:hover {
-  background-color: rgba(0,0,0,0.1);
-}
 /* PARA EJERCICIO HTML5 */
 .img-vacio {
 display: flex;
