@@ -12,6 +12,19 @@ header {
   height: 70vh;
 }
 
+.bx {
+  border: 1px solid #fff;
+  background-size: cover;
+}
+
+.midle {
+  height: 35vh;
+}
+
+.full {
+  height: 70vh;
+}
+
 .title-box {
   color: #6040e0;
   font-size: 5em;
