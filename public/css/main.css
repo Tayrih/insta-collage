@@ -1,0 +1,39 @@
+body {
+  background-color: #e0e0f0;
+}
+
+header {
+  background-color: #e0c0f0;
+  color: #6040e0;
+}
+
+.box-collage {
+  border: 2px solid #8060f0;
+  height: 70vh;
+}
+
+.bx {
+  border: 1px solid #fff;
+  background-size: cover;
+}
+
+.midle {
+  height: 35vh;
+}
+
+.full {
+  height: 70vh;
+}
+
+.title-box {
+  color: #6040e0;
+  font-size: 5em;
+}
+
+.down {
+  color: #6040e0;
+}
+
+.img-gallery:hover {
+  background-color: rgba(0,0,0,0.1);
+}
